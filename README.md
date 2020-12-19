@@ -32,4 +32,16 @@ The results of this project shows an understanding of the dataset and the import
 
 The data anaysis + visualization enables more understanding of how the variables in the  data is distributed.
 
+Here are some visualizations that enable insights:
 
+<img src='images/price_distribution.png' width=700 height=500>
+
+Here we can see the distribution of the Airbnb price between Boston and Seattle. This gives a good comparison for insights between the two locations.
+
+<img src='images/Boston_Neighborhood.png' width=700 height=500>
+
+This shows the 10 popular neighborhood in Boston
+
+<img src='images/Seattle_Neighborhood.png' width=700 height=500>
+
+This shows the 10 popular neighborhood in Seattle
