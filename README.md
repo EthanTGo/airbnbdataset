@@ -1,5 +1,6 @@
 # AirBnb Boston and Seattle dataset
 
+
 The following dataset is a combination of two datasets: the AirBnb's Boston dataset and the AirBnb's Seattle dataset. I combined the two dataset in order to gain more insight on different regional comparison on both the Boston and Seattle dataset.
 
 
@@ -24,5 +25,11 @@ Both dataset is taken from Kaggle but was ultimately given and provided by Airbn
 
 1. Boston airbnb's dataset: https://www.kaggle.com/airbnb/boston
 2. Seattle's airbnb's dataset: https://www.kaggle.com/airbnb/seattle/data
+
+# Results
+
+The results of this project shows an understanding of the dataset and the importance of choosing a model. In the first scenario, I decided to choose a basic linear regression model and had a high mean squared error. But, changing the model from a linear model to a ridge model significantly decrease the mean squared error. These changes combined with hyperparameter optimization may allow for satisfactory predictions to be made on the price of an Airbnb given the chosen variables. 
+
+The data anaysis + visualization enables more understanding of how the variables in the  data is distributed.
 
 
